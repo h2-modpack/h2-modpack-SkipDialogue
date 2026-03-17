@@ -4,7 +4,7 @@ schemaVersion = "0.0.1"
 
 [package]
 namespace = "adamant"
-name = "adamant-SkipDialogue"
+name = "SkipDialogue"
 versionNumber = "1.0.0"
 description = "Automatically skips dialogue prompts during gameplay."
 websiteUrl = "https://github.com/maybe-adamant/h2-pack-SkipDialogue"
