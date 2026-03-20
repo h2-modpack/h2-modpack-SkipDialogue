@@ -7,7 +7,7 @@ namespace = "adamant"
 name = "SkipDialogue"
 versionNumber = "1.0.0"
 description = "Automatically skips dialogue prompts during gameplay."
-websiteUrl = "https://github.com/maybe-adamant/h2-modpack-SkipDialogue"
+websiteUrl = "https://github.com/h2-modpack/h2-modpack-SkipDialogue"
 containsNsfwContent = false
 
 [package.dependencies]
